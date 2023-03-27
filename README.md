@@ -3,7 +3,7 @@
 title: Sitemap
 ---
 graph LR
-%%{init:{'flowchart':{'nodeSpacing': 6, 'rankSpacing': 40}}}%%
+%%{init:{'flowchart':{'nodeSpacing': 6, 'rankSpacing': 40}, 'theme': 'base', 'themeVariables': {'primaryColor': '#aaa', 'primaryBorderColor': '#aaa0', 'lineColor': '#333', 'darkMode': true}}}%%
 
 Home("<a href=https://georgegarside.com/>🏡 Home</a>")
 Blog("<a href=https://georgegarside.com/blog/>📝 Blog</a>")
